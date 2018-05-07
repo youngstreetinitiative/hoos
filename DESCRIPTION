@@ -1,0 +1,9 @@
+Package: hoos
+Title: For working with housing data
+Version: 0.0.0.9000
+Authors@R: person("Alexander", "Millard", email = "alxmilla@gmail.com", role = c("aut", "cre"))
+Description: Provides various tools for working with housing data more efficiently.
+Depends: R (>= 3.4.4) tidyverse 
+License: MIT
+Encoding: UTF-8
+LazyData: true
